@@ -9,6 +9,7 @@ html {
     font-size: 100%;
     font-family: 'Inter';
     font-style: normal;
+    background-color: cornsilk;
 }
 
 .container {
@@ -520,7 +521,7 @@ button {
     line-height: 24px;
     width: 180px;
     height: 64px;
-    background: #000000;
+    background: #0D4960;
     border-radius: 10px;
     letter-spacing: -0.02em;
     color: #FFFFFF;
